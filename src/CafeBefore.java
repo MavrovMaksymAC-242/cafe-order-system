@@ -12,7 +12,7 @@ public class CafeBefore {
         System.out.println("Order: " + item1 + " x" + qty1 + " = $" + total1);
 
         // Друге замовлення
-        String item2 = "Cake";
+        String item2 = "Торт";
         double price2 = 4.0;
         int qty2 = 3;
         double total2 = price2 * qty2;

@@ -1,0 +1,14 @@
+# Compiled class file
+*.class
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Package Files
+*.jar
+*.war
+
+# OS
+.DS_Store

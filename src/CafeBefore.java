@@ -32,7 +32,5 @@ public class CafeBefore {
             System.out.println("Discount applied!");
         }
         System.out.println("Order: " + item3 + " x" + qty3 + " = $" + total3);
-        System.out.println("Hello from GitHub!");
-        System.out.println("Привіт з GitHub!");
     }
 }
